@@ -1,6 +1,6 @@
 # 🐟 Aqua-Bionics: Biomorphic Hybrid Intelligence (13-LCM-Markov-Crossbar)
 
-[![DOI: 10.5281/zenodo.22158566]([https://zenodo.org/records/22158566](https://doi.org/10.5281/zenodo.22158566))]
+[![DOI: 10.5281/zenodo.22158566](https://zenodo.org/records/22158566)](https://doi.org/10.5281/zenodo.22158566)
 This repository contains the world's first software prototype of a serverless, hybrid analog-digital cognitive engine for an autonomous bio-robotic organism (Ricci Fish). 
 
 The architecture completely bypasses the traditional von Neumann bottleneck and eliminates the need for heavyweight digital processors, replacing deep learning with **in-materio physical computing** and non-linear dynamics.
